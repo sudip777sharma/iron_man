@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Iron Man Battle</string>
+    <string name="bg">background</string>
+    <string name="i_have_to_fly">New York Battle</string>
+    <string name="play">play</string>
+    <string name="high_score">High Score</string>
+    <string name="volume_on">volume on</string>
+    <string name="publisher">Publisher: Sudeep Sharma</string>
+</resources>
